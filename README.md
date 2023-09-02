@@ -1,6 +1,6 @@
 # CodeSoft_Internship 🚀🚀 HERE THE TASK IS GIVEN BELOW 👇👇
 
-                 TASK_01_ ✔🚀 NUMBER_GAME
+              TASK_01_ ✔🚀 NUMBER_GAME
 1. Generate a random number within a specified range, such as 1 to 100.
 2. Prompt the user to enter their guess for the generated number.
 3. Compare the user's guess with the generated number and provide feedback on whether the guess
@@ -11,7 +11,7 @@ You can incorporate additional details as follows:
 6. Add the option for multiple rounds, allowing the user to play again.
 7. Display the user's score, which can be based on the number of attempts taken or rounds won.
 
-8.                         TASK_02_✔🚀STUDENT_GRDE_CALCULATOR
+8.            TASK_02_✔🚀STUDENT_GRDE_CALCULATOR
 9. Input: Take marks obtained (out of 100) in each subject.
 Calculate Total Marks: Sum up the marks obtained in all subjects.
 Calculate Average Percentage: Divide the total marks by the total number of subjects to get the
