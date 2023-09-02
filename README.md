@@ -1,4 +1,4 @@
-# CodeSoft_Internship 🚀🚀 HERE THE BRIEF DETAILS  OF TASK IS GIVEN BELOW 👇👇
+#CodeSoft_Internship 🚀🚀 HERE THE BRIEF DETAILS  OF TASK IS GIVEN BELOW 👇👇
 
               TASK_01_ ✔🚀 NUMBER_GAME
 1. Generate a random number within a specified range, such as 1 to 100.
