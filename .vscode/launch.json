@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Task_03_ATM_INTERFACE",
+            "request": "launch",
+            "mainClass": "Task_03_ATM_INTERFACE",
+            "projectName": "CodeSoft_Internship_14a3fdb0"
+        },
+        {
+            "type": "java",
+            "name": "Task_2_Student_Grade_Calculator",
+            "request": "launch",
+            "mainClass": "Task_2_Student_Grade_Calculator",
+            "projectName": "CodeSoft_Internship_14a3fdb0"
+        },
+        {
+            "type": "java",
+            "name": "Task_2_Student_Grade_Calci",
+            "request": "launch",
+            "mainClass": "Task_2_Student_Grade_Calci",
+            "projectName": "CodeSoft_Internship_14a3fdb0"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Task_1_NUmber_Game",
+            "request": "launch",
+            "mainClass": "Task_1_NUmber_Game",
+            "projectName": "CodeSoft_Internship_14a3fdb0"
+        }
+    ]
+}
